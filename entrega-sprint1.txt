@@ -19,3 +19,4 @@ PUT /sensores/1
 DELETE /sensores/1
 
 Repositório backend:
+https://github.com/violiveira05/backend-metaindustria.git

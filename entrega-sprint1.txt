@@ -1,0 +1,21 @@
+SPRINT 1 - BACKEND API
+
+Nicolas Alvares - RM 557271
+Victor Augusto R. Oliveira - RM 558338
+Gabriel Yeshua  - RM 558273
+Pedro Henrique Garcia - RM 558867
+Milena Queiroz Clarindo - RM 558825
+Projeto:
+API de Monitoramento de Sensores Industriais
+
+Entidade principal:
+Sensor
+
+Endpoints testados:
+POST /sensores
+GET /sensores
+GET /sensores/1
+PUT /sensores/1
+DELETE /sensores/1
+
+Repositório backend:
